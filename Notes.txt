@@ -1,0 +1,25 @@
+Azure DataBricks 
+
+    - DataBricks is an Open source analytics spark engine to Process Big Data.
+    - DataBricks take advantage of Spark to Process, supporting Scala, Python, SQL languages 
+    - DataBricks manages everything from the Cluster, Pool, Availability, Scalability, Security and Much More 
+    - Azure DataBricks is the DataBricks combined with the Azure Cloud 
+
+
+
+Reference Youtube Channel :
+
+1. https://www.youtube.com/@AnshLambaJSR
+    - Topic : Databricks Tutorial (Zero to Hero )
+    - Topic : Azure End to End Data Engineering Projects ( From Scratch )
+    - Advantage : Real world scenario on DataFactory 
+
+2. https://www.youtube.com/@sumitmittal07
+    - Topic : End to End Azure Data Engineering Project by Sumit Sir
+    - Practical Domain knowledge & 
+
+
+2. https://www.youtube.com/@thedatatech
+    - Topic : 𝐍𝐨𝐛 𝐭𝐨 𝐏𝐫𝐨: 𝟐𝟎𝟐𝟓 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐑𝐨𝐚𝐝𝐦𝐚𝐩
+
+
